@@ -1,11 +1,13 @@
 # twitter-unfollow
 This repo will will help you unfollow folks on your twitter profile
 
-Mass-unfollow
-Step 1
+Mass Twitter Unfollow 
+
+#STEP 1
 Go to the console tab in your browser: right-click -> `inspect` -> `Console` tab
 
-STEP 2
+#STEP 2
 Paste the content of the script `twitter-unfollow.js` and press enter. 
 
-Please star the Gist !
+
+####Please star the Gist !
